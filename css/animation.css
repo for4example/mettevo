@@ -1,0 +1,47 @@
+.header__logo {
+  position: relative;
+  z-index: 1;
+}
+
+#particle-slider {
+  position: absolute;
+  width: 900px;
+  height: 500px;
+}
+
+
+
+@media screen and (max-width: 1383px) {
+  #particle-slider {
+    width: 500px;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 1279px) {
+  #particle-slider {
+    width: 500px;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 776px) {
+  #particle-slider {
+    width: 350px;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 645px) {
+  #particle-slider {
+    width: 300px;
+    height: 300px;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  #particle-slider {
+    width: 200px;
+    height: 200px;
+  }
+}

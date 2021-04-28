@@ -1,0 +1,8 @@
+/*
+Theme Name: Тема для Миши
+Version: 105.1
+Description: Вполне себе годная темка, получше некоторых
+Author: Миша Рудрастых
+Author URI: https://misha.blog
+*/
+body{color:#555;} /* это типо я показываю, что дальше идут уже ваши CSS стили */

@@ -1,0 +1,38 @@
+.nav-burger{
+    top: 3vw;
+}
+.header__button {
+    grid-column-start: 3;
+    position: relative;
+}
+.block-main__btn {
+    margin-bottom: 3.9vw;
+}
+.main-block__title {
+    margin-bottom: 1.56vw;
+}
+/* .main-block{
+    background-size: cover!important;
+    padding-bottom: 6.09vw;
+} */
+.block-main__message{
+    margin: 3.125VW 0;
+}
+/* @media (max-width: 1920px){
+.main-block {
+    min-height: 100vh;
+}} */
+@media(max-width:650px){
+   
+/*     .block-main__btn{
+        margin-bottom: 13.33vw;
+    } */
+    .main-block__title,
+    .main-block__text{
+        margin-bottom: 6.66vw;
+    }
+  
+    .main-block {
+        min-height: auto;
+    }
+}
